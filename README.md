@@ -1,6 +1,6 @@
 # uts-machine-learning-241011401508
 
-Repositori ini berisi pengerjaan UTS Machine Learning mencakup implementasi manual algoritma **Linear Regression** dan **Logistic Regression** menggunakan **NumPy**, evaluasi kinerja model, eksperimen *hyperparameter*, serta perbandingannya dengan pustaka **Scikit-Learn**.
+Repositori ini berisi pengerjaan UTS Machine Learning mencakup implementasi manual algoritma **Linear Regression** dan **Logistic Regression** menggunakan **NumPy**, evaluasi model, eksperimen *threshold*, serta perbandingannya dengan **Scikit-Learn**.
 
 ## Identitas Mahasiswa
 - **Nama**  : Alya Anjani Kasra
